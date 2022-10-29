@@ -11,7 +11,8 @@
 
 # Commands 
 1. ranjit help 
-2. ranjit tree <directory Path> or ranjit tree 
-3. ranjit organize <directory Path> or ranjit organize 
+2. ranjit tree --directory Path-- or ranjit tree 
+3. ranjit organize --directory Path-- or ranjit organize 
 
   
+![Screenshot from 2022-10-29 18-15-19](https://user-images.githubusercontent.com/69426049/198832354-5722e0ab-2fdf-4272-b127-787f6212fcdc.png)
